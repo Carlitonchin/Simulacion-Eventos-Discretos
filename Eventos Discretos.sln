@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eventos Discretos", "Eventos Discretos.csproj", "{31483586-1CE3-4232-A3FB-43A10689ABC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31483586-1CE3-4232-A3FB-43A10689ABC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31483586-1CE3-4232-A3FB-43A10689ABC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31483586-1CE3-4232-A3FB-43A10689ABC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31483586-1CE3-4232-A3FB-43A10689ABC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B8D2B25-F1C7-4DC2-8CD5-55776C8C930A}
+	EndGlobalSection
+EndGlobal

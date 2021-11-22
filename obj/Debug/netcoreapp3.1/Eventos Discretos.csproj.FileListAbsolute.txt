@@ -1,0 +1,13 @@
+C:\Users\Carlitonchin\source\repos\Eventos Discretos\bin\Debug\netcoreapp3.1\Eventos Discretos.exe
+C:\Users\Carlitonchin\source\repos\Eventos Discretos\bin\Debug\netcoreapp3.1\Eventos Discretos.deps.json
+C:\Users\Carlitonchin\source\repos\Eventos Discretos\bin\Debug\netcoreapp3.1\Eventos Discretos.runtimeconfig.json
+C:\Users\Carlitonchin\source\repos\Eventos Discretos\bin\Debug\netcoreapp3.1\Eventos Discretos.runtimeconfig.dev.json
+C:\Users\Carlitonchin\source\repos\Eventos Discretos\bin\Debug\netcoreapp3.1\Eventos Discretos.dll
+C:\Users\Carlitonchin\source\repos\Eventos Discretos\bin\Debug\netcoreapp3.1\Eventos Discretos.pdb
+C:\Users\Carlitonchin\source\repos\Eventos Discretos\obj\Debug\netcoreapp3.1\Eventos Discretos.csprojAssemblyReference.cache
+C:\Users\Carlitonchin\source\repos\Eventos Discretos\obj\Debug\netcoreapp3.1\Eventos Discretos.AssemblyInfoInputs.cache
+C:\Users\Carlitonchin\source\repos\Eventos Discretos\obj\Debug\netcoreapp3.1\Eventos Discretos.AssemblyInfo.cs
+C:\Users\Carlitonchin\source\repos\Eventos Discretos\obj\Debug\netcoreapp3.1\Eventos Discretos.csproj.CoreCompileInputs.cache
+C:\Users\Carlitonchin\source\repos\Eventos Discretos\obj\Debug\netcoreapp3.1\Eventos Discretos.dll
+C:\Users\Carlitonchin\source\repos\Eventos Discretos\obj\Debug\netcoreapp3.1\Eventos Discretos.pdb
+C:\Users\Carlitonchin\source\repos\Eventos Discretos\obj\Debug\netcoreapp3.1\Eventos Discretos.genruntimeconfig.cache
